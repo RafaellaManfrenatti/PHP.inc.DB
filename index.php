@@ -8,10 +8,10 @@ require($_SERVER['DOCUMENT_ROOT'] . '/inc/_config.php');
  ***********************************************/
 
 // Define o título da página:
-$page_title = '';
+$page_title = 'Artigos';
 
 // Inicializa o conteúdo da página:
-$content = '<h2>Artigos Recentes</h2>';
+$content = '<h2>Artigos Acadêmicos</h2>';
 
 // query para obter todos os artigos do site:
 $sql = <<<SQL

@@ -10,6 +10,7 @@ require($_SERVER['DOCUMENT_ROOT'] . '/inc/_config.php');
 // Define o título da página:
 $page_title = 'Políticas de Privacidade';
 
+
 /**************************************************************
  * Define o conteúdo "visual" da página:                      *
  * Observe que temos, por padrão, um design com duas colunas. *

@@ -9,10 +9,10 @@ date_default_timezone_set('America/Sao_Paulo');
 /**************************************
  * Inicializa variáveis do aplicativo *
  **************************************/
-$page_title = '';                           // Título dinâmico da página:
+$page_title = 'Artigos Científicos';                           // Título dinâmico da página:
 $page_content = '';                         // Conteúdo dinâmico da página:
-$site_name = 'PHP.inc.DB';                  // Nome do site:
-$site_slogan = 'Só um site dinâmico...';    // Slogan do site:
+$site_name = 'Artigos Científicos';                  // Nome do site:
+$site_slogan = 'Para estudar';    // Slogan do site:
 $tag_title = $site_name;                    // Formato da tag <title>:
 $site_year = 2022;                          // Ano de lançamento do site:
 $copyright = "&copy; {$site_year} ";        // Mensagem de Copyright no rodapé:
